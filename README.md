@@ -5,7 +5,7 @@ Una lista de enlaces de interes para diseñadores/desarrolladores web/mobile par
 
 Formato de entrada: Titulo/Enlace -  Idioma - DD/MM/AAAA - Colaborador
 
-**ABC** philosophy = **A**lways **B**e **C**oding
+ABC philosophy = Always Be Coding
 
 **Gestión de Proyectos Web**
 
