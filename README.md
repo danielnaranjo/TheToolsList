@@ -9,3 +9,7 @@ ABC philosophy = Always Be Coding
 
 1.  [Como cobrar por tus proyectos web!](http://www.sitepoint.com/series/how-to-charge/) - EN - 05/04/14 por [@joseadanof](https://github.com/joseadanof/).
 
+
+**Wordpress**
+
+1. [Toolset Plugins: desarrollo de sitios complejos con Wordpress sin PHP ](http://wp-types.com/) - EN - 05/04/14 por [@joseadanof](https://github.com/joseadanof/).
