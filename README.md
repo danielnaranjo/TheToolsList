@@ -1,9 +1,11 @@
 TheToolsList
 ============
 
-Una lista de enlaces de interes para diseñadores/desarrolladores web/mobile para ubicar facilmente recursos y herramientas de Agile, Backend, Project Management, Development, Entrepreneurship, Frontend, Mobile, Startups, y mas. Todos los titulos están en español pero el contenido puede estar en inglés, ver EN o ES luego del enlace.
+Una lista de enlaces de interes para diseñadores/desarrolladores web/mobile para ubicar facilmente recursos y herramientas de Agile, Backend, Project Management, Development, Entrepreneurship, Frontend, Mobile, Startups, y mas. Todos los titulos están en español pero el contenido puede estar en inglés, ver EN o ES luego del enlace. 
 
-ABC philosophy = Always Be Coding
+Formato de entrada: Titulo/Enlace -  Idioma - DD/MM/AAAA - Colaborador
+
+**ABC** philosophy = **A**lways **B**e **C**oding
 
 **Gestión de Proyectos Web**
 
