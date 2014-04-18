@@ -21,3 +21,8 @@ ABC philosophy = Always Be Coding
 **Wordpress**
 
 1. [Toolset Plugins: desarrollo de sitios complejos con Wordpress sin PHP ](http://wp-types.com/) - EN - 05/04/14 por [@joseadanof](https://github.com/joseadanof/).
+
+**Best practices**
+
+1. [Superhero.js](http://superherojs.com/) - En - 18/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
+
