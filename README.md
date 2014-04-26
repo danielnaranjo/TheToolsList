@@ -26,5 +26,5 @@ ABC philosophy = Always Be Coding
 
 1. [Superhero.js](http://superherojs.com/) - En - 18/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 2. [Multi-Screen.js](http://www.ian-devries.com/multiscreenjs/) - En - 24/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
-3. [Faster AngularJS Rendering (AngularJS and ReactJS)](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/ - En - 24/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
+3. [Faster AngularJS Rendering (AngularJS and ReactJS)](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/) - En - 24/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 
