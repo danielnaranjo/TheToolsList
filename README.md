@@ -25,4 +25,5 @@ ABC philosophy = Always Be Coding
 **Best practices**
 
 1. [Superhero.js](http://superherojs.com/) - En - 18/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
+2. [Multi-Screen.js](http://www.ian-devries.com/multiscreenjs/) - En - 24/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 
