@@ -16,7 +16,9 @@ ABC philosophy = Always Be Coding
 **Productividad**
 
 1.  [Shortcat: herramienta para disminuir el uso del Mouse](http://shortcatapp.com/) - EN - 05/04/14 por [@joseadanof](https://github.com/joseadanof/).
-
+2.  [CoffeeScript](http://coffeescript.org/) - EN - 26/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
+3.  [Js2coffee](http://js2coffee.org/) - EN - 26/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
+4.  [html2jade](http://html2jade.com/) - EN - 26/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 
 **Wordpress**
 
