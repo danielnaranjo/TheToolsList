@@ -11,6 +11,7 @@ ABC philosophy = Always Be Coding
 
 1.  [Como cobrar por tus proyectos web!](http://www.sitepoint.com/series/how-to-charge/) - EN - 05/04/14 por [@joseadanof](https://github.com/joseadanof/).
 2.  [JavaScript Frameworks | How to Learn Them Quickly](http://www.funnyant.com/javascript-frameworks/) - EN - 14/04/14 por [@danielnaranjo](https://github.com/danielnaranjo)
+3.  [Online JSON Viewer](http://jsonviewer.stack.hu/) - EN - 29/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 
 
 **Productividad**
