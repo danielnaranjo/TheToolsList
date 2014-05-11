@@ -32,4 +32,5 @@ ABC philosophy = Always Be Coding
 3. [Faster AngularJS Rendering (AngularJS and ReactJS)](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/) - En - 24/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 4. [responsinator](http://www.responsinator.com/) - EN - 26/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 5. [brunch.io](http://brunch.io/) - EN - 28/04/14 por [@danielnaranjo](https://github.com/danielnaranjo).
+6. [Velocity.js (Accelerated JavaScript animation)](http://julian.com/research/velocity/) - EN - 10/05/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 
