@@ -35,4 +35,5 @@ ABC philosophy = Always Be Coding
 6. [Velocity.js (Accelerated JavaScript animation)](http://julian.com/research/velocity/) - EN - 10/05/14 por [@danielnaranjo](https://github.com/danielnaranjo).
 
 **Angular.js**
+
 1. [Angular resources worth your time](http://www.planningforaliens.com/blog/2014/06/17/angular-resources/) - EN - 18/06/14 por [@danielnaranjo](https://github.com/danielnaranjo).
